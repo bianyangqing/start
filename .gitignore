@@ -1,0 +1,17 @@
+/target/
+.settings/
+.classpath
+.project
+/antx.properties
+/tmcs.center.api/.settings
+/tmcs.center.api/.project
+*.iml
+/*.ipr
+/*.iws
+/.idea/*
+
+tmcs.center.deploy/.project
+tmcs.center.deploy/.settings/
+/tmcs.center.api/.classpath
+/**/.settings/
+/**/bin/
